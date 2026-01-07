@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+frontend/dist/
+deploy/
+
+# Environment files
+.env
+backend-php/.env
+
+# Database journals (keep .db files)
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Uploads (all locations)
+uploads/
+frontend/public/uploads/
+deploy/uploads/
+**/uploads/*.jpg
+**/uploads/*.jpeg
+**/uploads/*.png
+**/uploads/*.webp
+**/uploads/*.gif
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
