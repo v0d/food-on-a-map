@@ -1,6 +1,6 @@
-# My Asian Munich
+# Food on a Map
 
-A curated guide to Asian restaurants in Munich. Interactive map with filtering, sorting, and admin management.
+A curated guide to restaurants in Munich. Interactive map with filtering, sorting, and admin management.
 
 ## Tech Stack
 
